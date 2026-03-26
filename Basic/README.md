@@ -14,13 +14,14 @@
 
 ### שלב 3: לוגים
 
-פירוט בקובץ: [venv and uv.md](./Basic/logging.md)
+פירוט בקובץ: [לוגים](./logging.md)
 
 
 ### שלב 4: UV - ניהול חבילות וסביבות וירטואליות
 
-פירוט בקובץ: [venv and uv.md](./Basic/uv_venv.md)
+פירוט בקובץ: [UV and venv](./uv_venv.md)
 
 
-### שלב 5 : 
+### שלב 5 : Type Hints
 
+פירוט בקובץ: [Type Hints](./type_hints.md)
