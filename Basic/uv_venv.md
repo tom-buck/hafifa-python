@@ -70,4 +70,3 @@ pip install SomePackage
 > [דוקומנטציה רשמית של UV](https://docs.astral.sh/uv/)
 
 
-
