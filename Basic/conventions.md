@@ -79,11 +79,15 @@ calculator
 
 #### הזחה (Indentation)
 
-הזחה קוראת באמצעות `Tab`לא באף צורה אחרת...
+הזחה קוראת באמצעות `Tab`.
+לא באף צורה אחרת...
 
 ```python
 if number > 5:
     print(number)
+^
+|
+tab
 ```
 
 
