@@ -87,6 +87,8 @@ foo("Banana") # this is raise an error
 
 סביר להניח שבמחקר שלהם תתקלו בדברים שלא למדתם עדיין , תבינו מה שרלוונטי אליכם .
 
+>[הסבר על הנושא , מתוך האתר של FastAPI](https://fastapi.tiangolo.com/python-types/)
+
 >[סרטון הסבר](https://www.youtube.com/watch?v=BzBUagNkX1E)
 
 > [סרטון הסבר נוסף](https://www.youtube.com/watch?v=QORvB-_mbZ0)
