@@ -12,16 +12,17 @@
 - [Programiz - Python Modules](https://www.programiz.com/python-programming/modules)
 
 
-### שלב 3: לוגים
+## שלב 3: קונבצניות ו - Type Hints
+
+פירוט בקובץ: [Conventions](./conventions.md)
+פירוט בקובץ: [Type Hints](./type_hints.md)
+
+
+### שלב 4: לוגים
 
 פירוט בקובץ: [לוגים](./logging.md)
 
 
-### שלב 4: UV - ניהול חבילות וסביבות וירטואליות
+### שלב 5: UV - ניהול חבילות וסביבות וירטואליות
 
 פירוט בקובץ: [UV and venv](./uv_venv.md)
-
-
-### שלב 5 : Type Hints
-
-פירוט בקובץ: [Type Hints](./type_hints.md)

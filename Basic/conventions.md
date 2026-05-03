@@ -94,7 +94,19 @@ tab
 #### שורות ריקות
 
 * **שתי שורות ריקות** לפני הגדרת פונקציה גלובלית או מחלקה.
-* **שורה ריקה אחת** בין מתודות (פונקציות) בתוך מחלקה.
+* **שורה ריקה אחת** בין 
+
+```python
+
+
+class Person:
+    def __init__(name : str):
+        self.name = name
+    
+    def __str__()
+        return f"Person named {name}"
+
+```
 
 
 #### רווחים (Whitespace)
@@ -132,6 +144,7 @@ from student import Student
 
 
 ### Type Hints
+
 
 חשוב מאוד ונחשב חלק מהמוסכמה , תקראו עליו פה : 
 
