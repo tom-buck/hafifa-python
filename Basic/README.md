@@ -14,8 +14,9 @@
 
 ## שלב 3: קונבצניות ו - Type Hints
 
-פירוט בקובץ: [Conventions](./conventions.md)
-פירוט בקובץ: [Type Hints](./type_hints.md)
+פירוט בלינקים : 
+- [Conventions](./conventions.md)
+- [Type Hints](./type_hints.md)
 
 
 ### שלב 4: לוגים
