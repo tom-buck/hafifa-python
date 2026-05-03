@@ -2,7 +2,8 @@
 
 ### שלב 1: התחלה
 בשלב הראשוני, יש לעבור על הספר הבא:
-[Python Book - Cyber](https://data.cyber.org.il/python/python_book.pdf)
+
+- [Python Book - Cyber](https://data.cyber.org.il/python/python_book.pdf)
 
 
 ### שלב 2: מודלים
@@ -21,9 +22,11 @@
 
 ### שלב 4: לוגים
 
-פירוט בקובץ: [לוגים](./logging.md)
+פירוט בקובץ:
+- [לוגים](./logging.md)
 
 
 ### שלב 5: UV - ניהול חבילות וסביבות וירטואליות
 
-פירוט בקובץ: [UV and venv](./uv_venv.md)
+פירוט בקובץ:
+- [UV and venv](./uv_venv.md)
